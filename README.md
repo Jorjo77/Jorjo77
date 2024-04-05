@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Welcome
 
 ### Hey there! 
-### I'm Georgi Kolev, a junior enthusiast diving into the world of web development. Currently honing my React.JS skills  with a passion for coding.
+### I'm Georgi Kolev, a passionate enthusiast diving into the world of web development. Currently, I honing my React.JS skills with a passion for coding.
 <br/>
 
 
@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 </p>
 <br/>
 <blockquote style="width: 600px">
-  <h3>"Everyone should learn how to programing because it teaches you how to think"</h3>
+  <h3>"Everyone should learn how to program because it teaches you how to think"</h3>
   <p style="text-align: right"> - Steve Jobs</p
 </blockquote>
 
 ## 🌟 Custom projects 🌟
- ### View full list with detais: 
+ ### View the full list with details: 
 - <a href="https://github.com/Jorjo77/SoftuniBMX">Bicycle Management eXtreme- BMX</a>
 - <a href="https://github.com/jorjo77/MunicipalityMobilitySystem">Mobility System</a> 
 
